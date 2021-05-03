@@ -7,15 +7,13 @@
 <sub>*Mechanical Engineer and Data Science Student*</sub>
 
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Business Intelligence, Python, Data Science and Machine Learning.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/gabriel-prado-255859121/)
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os tutoriais publicados do Github:
 
-* **Como importar arquivos do drive para o Colab:** https://bit.ly/3eKHp7u
+* **Como importar arquivos do drive para o Colab:** https://bit.ly/3eQegI3
