@@ -16,4 +16,5 @@
 ## Projetos:
 Veja os tutoriais publicados do Github:
 
-* **Como importar arquivos do drive para o Colab:** https://bit.ly/3eQegI3
+* **Como importar arquivos do drive para o Colab:** https://bit.ly/
+* **Analisando os dados do Airbnb (Barcelona):** https://bit.ly/33l65hA
